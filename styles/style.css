@@ -196,26 +196,33 @@ main {
   }
 
   .btn--new {
-    top: 25rem;
+    top: 24rem;
   }
 
   .btn--roll {
-    top: 31rem;
+    top: 31.5rem;
   }
 
   .btn--hold {
-    top: 37rem;
+    top: 38.5rem;
   }
 
   .current {
-    width: 75%;
+    width: 70%;
     padding: 1rem;
     text-align: center;
     transition: all 0.75s;
   }
 
+  .current-label {
+    text-transform: uppercase;
+    margin-bottom: 1rem;
+    font-size: 1.5rem;
+    color: #ddd;
+  }
+
   .current-score {
-    font-size: 3rem;
+    font-size: 2rem;
   }
 
   .score {
