@@ -211,7 +211,7 @@ main {
   }
 
   .current {
-    width: 75%;
+    width: 65%;
     padding: 1rem;
     margin-bottom: 5rem;
   }
@@ -223,11 +223,11 @@ main {
   }
 
   .current-score {
-    font-size: 2rem;
+    font-size: 1.7rem;
   }
 
   .score {
-    font-size: 4rem;
+    font-size: 2.7rem;
     font-weight: 300;
     color: #c7365f;
     margin-bottom: auto;
